@@ -1,0 +1,12 @@
+.env.js
+
+# Parcel
+.cache
+dist
+
+# Node
+node_modules/
+package-lock.json
+
+# System
+.DS_Store
